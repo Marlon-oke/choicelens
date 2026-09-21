@@ -1,0 +1,27 @@
+{
+  "node": {
+    "00487eff61cca6b4dc43579c7df37ebdfe8afcf7df": {
+      "workers": {
+        "app/register/page": {
+          "moduleId": 50184,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "logout",
+      "filename": "lib/actions.ts"
+    },
+    "60fc6550c9210002ec175c7598e7d3a5e66e36cf14": {
+      "workers": {
+        "app/register/page": {
+          "moduleId": 50184,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "signup",
+      "filename": "lib/actions.ts"
+    }
+  },
+  "edge": {}
+}

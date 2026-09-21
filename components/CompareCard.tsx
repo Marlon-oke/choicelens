@@ -6,7 +6,7 @@ export default function CompareCard({
   onPlaceholder,
 }: {
   comparison: Comparison;
-  onPlaceholder: () => void;
+  onPlaceholder?: () => void;
 }) {
   const [a, b] = comparison.products;
   return (
@@ -41,7 +41,7 @@ export default function CompareCard({
         className="card-link"
         onClick={(e) => {
           e.preventDefault();
-          onPlaceholder();
+          onPlaceholder?.();
         }}
       >
         View Comparison →

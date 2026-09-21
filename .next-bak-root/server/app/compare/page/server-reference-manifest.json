@@ -1,0 +1,27 @@
+{
+  "node": {
+    "00487eff61cca6b4dc43579c7df37ebdfe8afcf7df": {
+      "workers": {
+        "app/compare/page": {
+          "moduleId": 34435,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "logout",
+      "filename": "lib/actions.ts"
+    },
+    "4024673df51224cbe58f01eb60af68050d9b665d68": {
+      "workers": {
+        "app/compare/page": {
+          "moduleId": 34435,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "toggleWishlist",
+      "filename": "lib/actions.ts"
+    }
+  },
+  "edge": {}
+}

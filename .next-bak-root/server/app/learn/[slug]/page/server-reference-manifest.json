@@ -1,0 +1,16 @@
+{
+  "node": {
+    "00487eff61cca6b4dc43579c7df37ebdfe8afcf7df": {
+      "workers": {
+        "app/learn/[slug]/page": {
+          "moduleId": 80844,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "logout",
+      "filename": "lib/actions.ts"
+    }
+  },
+  "edge": {}
+}
